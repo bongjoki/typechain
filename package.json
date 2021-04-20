@@ -1,0 +1,13 @@
+{
+    "name": "typechain",
+    "version": "1.0.0",
+    "description": "make blockchain using typescript ",
+    "main": "index.js",
+    "repository": "https://github.com/bongjoki/typechain",
+    "author": "Bongjo Ki <bongjo@starshell.co>",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js",
+        "prestart": "tsc"
+    }
+}
